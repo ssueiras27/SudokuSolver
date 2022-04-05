@@ -1,0 +1,17 @@
+int a = 10;
+function int suma(int a, int b){ suma function int intint suma(23,"Hh",jjj)
+	if (mipolla)return "jajajaja";
+	return a;
+}
+
+function multSum(int a, int n){
+	return suma(a,b) * a;
+}
+TSG
+suma function int int,int
+
+TSL
+a int
+b int
+
+int a = suma(4,7) + 6;
